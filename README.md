@@ -12,7 +12,7 @@
 
 ### AWS Cli
 
-- Create a IAM user with programatic access
+- Create a IAM user with programmatic access
 - Configure AWS Cli with the public and secret keys (awc configure)
 
 ### Deploy
